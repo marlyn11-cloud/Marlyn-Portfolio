@@ -1,16 +1,14 @@
-*{
-
 /* ── TOKENS ─────────────────────────────────────────────── */
     :root {
       --navy:      #0D1B2A;
       --navy-mid:  #162033;
-      --navy-card: #5271b6;
-      --off-pink: #fa9ee6;
-      --muted:     #8A95A8;
-      --lavender:  #a776fc;
+      --navy-card: #2b364d;
+      --off-pink: #b871a8;
+      --muted:     #8290ac;
+      --lavender:  #8743fc;
       --lavender-dim: rgba(179,136,255,0.15);
       --lavender-glow: rgba(179,136,255,0.08);
-      --slate:     #4A5568;
+      --slate:     #2e3541;
       --glass:     rgba(255,255,255,0.04);
       --border:    rgba(255,255,255,0.07);
       --radius-sm: 8px;
@@ -542,4 +540,3 @@
       .cursor { animation: none; }
       .hero-scroll-hint::after { animation: none; }
     }
-}
